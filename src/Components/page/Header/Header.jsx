@@ -25,6 +25,7 @@ function Header(props) {
                 <div className="info-about">{user.about}</div>
             </div>
         </header>
+        // oke
     );
 }
 
